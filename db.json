@@ -1,14 +1,43 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    "adGroupId": 273416,
+    "adGroupName": "Walmart|Display|Cross Device|Lockout|Branded Search Page|HersheyKisses-Branded|Discounted|6766|3235434",
+    "startDate": "2020-01-23",
+    "endDate": "2020-10-31",
+    "adServer": "dfp",
+    "status": "delivering"
+  },
+  {
+    "adGroupId": 273436,
+    "adGroupName": "Walmart|Display|Cross Device|Lockout|Branded Search Page|Twizzler-Brand|Discounted|6766|3235442",
+    "startDate": "2020-11-01",
+    "endDate": "2020-12-31",
+    "adServer": "dfp",
+    "status": "ready"
+  },
+  {
+    "adGroupId": 282052,
+    "adGroupName": "Walmart|Display|Cross Device|Keyword|Search POV/Inline|Snack-Broad|Discounted|6766|3235776",
+    "startDate": "2020-01-29",
+    "endDate": "2020-10-31",
+    "adServer": "dfp",
+    "status": "delivering"
+  },
+  {
+    "adGroupId": 282072,
+    "adGroupName": "Walmart|Display|Cross Device|Keyword|Search POV/Inline|Candy-Category|Discounted|6766|3235681",
+    "startDate": "2020-01-23",
+    "endDate": "2020-10-31",
+    "adServer": "dfp",
+    "status": "delivering"
+  },
+  {
+    "adGroupId": 273316,
+    "adGroupName": "Walmart|Display|Cross Device|Lockout|Branded Search Page|Hershey-Brand|Discounted|6766|3235431",
+    "startDate": "2020-11-01",
+    "endDate": "2020-12-31",
+    "adServer": "dfp",
+    "status": "ready"
+  },
+  
+]
